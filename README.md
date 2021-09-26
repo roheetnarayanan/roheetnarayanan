@@ -1,0 +1,18 @@
+-Hello There!
++ I'm Roheet. I am a Data Engineering Graduate Student at Otto-von-Guericke Universität, Magdeburg.
+
+### Isha Gupta 
+[![Linkedin Badge](https://img.shields.io/badge/-Roheet_Rajendran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roheetnarayanan//)]
+(https://www.linkedin.com/in/roheetnarayanan/) [![Yahoo Badge](https://img.shields.io/badge/-roheetn@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:roheetn@yahoo.com)](mailto:roheetn@yahoo.com)
+
+
+-  **Frameworks :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :**  `.py`, `.sql`,`.java`
+-  **Tools :**  Tableau, Oracal 11g, PostgrSQL, Jupyter, Ms Excel 
+-  **Frameworks :**  Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
+-  **Interests :** Data Mining and Visualization.
+
+<!---
+roheetnarayanan/roheetnarayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
