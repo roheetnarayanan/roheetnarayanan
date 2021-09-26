@@ -3,7 +3,7 @@
 
 ### Isha Gupta 
 [![Linkedin Badge](https://img.shields.io/badge/-Roheet_Rajendran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roheetnarayanan//)]
-(https://www.linkedin.com/in/roheetnarayanan/) [![Yahoo Badge](https://img.shields.io/badge/-roheetn@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:roheetn@yahoo.com)](mailto:roheetn@yahoo.com)
+[![Yahoo Badge](https://img.shields.io/badge/-roheetn@yahoo.com-c14438?style=for-the-badge&logo=Yahoo&logoColor=white&link=mailto:roheetn@yahoo.com)](mailto:roheetn@yahoo.com)
 
 
 -  **Frameworks :** Full-Stack Development :zap: | Open-Source :fire:	
