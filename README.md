@@ -2,8 +2,8 @@
 + I'm Roheet. I am a Data Engineering Graduate Student at Otto-von-Guericke Universität, Magdeburg.
 
 ### Isha Gupta 
-[![Linkedin Badge](https://img.shields.io/badge/-Roheet_Rajendran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roheetnarayanan//)]
-[![Yahoo Badge](https://img.shields.io/badge/-roheetn@yahoo.com-c14438?style=for-the-badge&logo=Yahoo&logoColor=white&link=mailto:roheetn@yahoo.com)](mailto:roheetn@yahoo.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roheetnarayanan//)
+[![Yahoo Badge](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white&link=mailto:roheetn@yahoo.com)](mailto:roheetn@yahoo.com)
 
 
 -  **Frameworks :** Full-Stack Development :zap: | Open-Source :fire:	
