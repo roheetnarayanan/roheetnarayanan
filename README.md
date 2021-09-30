@@ -13,7 +13,7 @@ An overview of all the repositories can be found [here](https://roheetnarayanan.
 -  **Languages :**  `.py`, `.sql`,`.java`
 -  **Tools :**  Tableau, Oracal 11g, PostgrSQL, Jupyter, Ms Excel 
 -  **Frameworks :**  Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
--  **Interests :** Data Mining and Visualization.
+-  **Interests :** Python Application Development, Data Mining and Visualization.
 
 <!---
 roheetnarayanan/roheetnarayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
