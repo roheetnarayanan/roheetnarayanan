@@ -13,7 +13,7 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 -  **Languages :**  `.py`, `.sql`,`.java`
 -  **Tools :**  Tableau, Oracle 11g, PostgrSQL, Jupyter, Git, AWS, Ms Excel.
 -  **Frameworks :**  Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
--  **Interests :** Python Application Development, Data Mining and Visualization.
+-  **Interests :**   Machine Learning, Data Mining and Visualization.
 
 <!---
 roheetnarayanan/roheetnarayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
