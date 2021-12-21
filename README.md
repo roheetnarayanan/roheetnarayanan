@@ -15,8 +15,7 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 -  **Frameworks :**  Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
 -  **Interests :**   Machine Learning, Data Mining and Visualization.
 
-<!---
-roheetnarayanan/roheetnarayanan is a ✨ special ✨ repository because its `<hr>
+
 <div align="center">
 <hr>
 <div align="center">
