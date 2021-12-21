@@ -11,4 +11,4 @@ def update_footer():
 readme = Path('../README.md').read_text()
 
 with open('../README.md', "w+") as f:
-    f.write(readme[:readme.find("README.md")] + update_footer())
+    f.write(readme[:readme.find("<div")] + update_footer())
