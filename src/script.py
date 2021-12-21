@@ -2,7 +2,6 @@ from pathlib import Path
 import datetime
 import pytz
 
-import feedparser
 
 def update_footer():
     timestamp = datetime.datetime.now(pytz.timezone("Europe/Berlin")).strftime("%c")
