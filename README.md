@@ -16,18 +16,9 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 -  **Interests :**   Machine Learning, Data Mining and Visualization.
 
 <!---
-roheetnarayanan/roheetnarayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<hr>
+roheetnarayanan/roheetnarayanan is a ✨ special ✨ repository because its `<hr>
 <div align="center">
-README.md last auto generated Tue Dec 21 10:09:02 2021
-<br>
-<a href="https://roheetnarayanan.in" target="_blank">Know more about my work?</a>
-</div>
-<hr>
-<div align="center">
-README.md last auto generated Tue Dec 21 10:23:10 2021
+README.md last auto generated Tue Dec 21 10:34:02 2021
 <br>
 <a href="https://roheetnarayanan.in" target="_blank">Know more about my work?</a>
 </div>
