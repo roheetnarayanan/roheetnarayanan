@@ -21,6 +21,8 @@ jobs:
           python-version: '3.8'
       - name:  Install  pytz
         run: pip install pytz
+      - name: Install requests
+        run: pip install requests
       - name: Update README
         run: |
           cd ${GITHUB_WORKSPACE}/src/
