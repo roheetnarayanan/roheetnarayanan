@@ -1,6 +1,6 @@
 <hr>
 <div align="center">
+<p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
 {quote} <br>
 README.md last auto generated {timestamp}<br>
-<a href="https://roheetnarayanan.in" target="_blank">Know more about my work?</a>
 </div>
