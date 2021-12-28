@@ -18,7 +18,7 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 
 <hr>
 <div align="center">
-No. I am your father. — Darth Vader <br>
-README.md last auto generated Tue Dec 28 07:08:16 2021<br>
-<a href="https://roheetnarayanan.in" target="_blank">Know more about my work?</a>
+<p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
+[Luke:] I can’t believe it. [Yoda:] That is why you fail. - Yoda / Luke <br>
+README.md last auto generated Tue Dec 28 17:07:02 2021<br>
 </div>
