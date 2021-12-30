@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Be Careful Not To Choke On Your Convictions. - Darth Vader <br>
-README.md last auto generated Wed Dec 29 07:08:18 2021<br>
+You can’t stop the change, any more than you can stop the suns from setting. — Shmi Skywalker <br>
+README.md last auto generated Thu Dec 30 07:07:57 2021<br>
 </div>
