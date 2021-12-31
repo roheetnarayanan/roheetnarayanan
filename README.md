@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You can’t stop the change, any more than you can stop the suns from setting. — Shmi Skywalker <br>
-README.md last auto generated Thu Dec 30 07:07:57 2021<br>
+Hope. — Leia Organa <br>
+README.md last auto generated Fri Dec 31 07:08:02 2021<br>
 </div>
