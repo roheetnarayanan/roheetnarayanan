@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Life does not treat you fairly or unfairly, it merely is. It is up to each of us to be fair, or unfair. ? Qui-Gon Jinn <br>
-README.md last auto generated Mon Jan  3 14:16:44 2022<br>
+It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo <br>
+README.md last auto generated Tue Jan  4 07:08:08 2022<br>
 </div>
