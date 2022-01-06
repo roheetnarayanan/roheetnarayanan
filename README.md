@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-[Luke:] I can’t believe it. [Yoda:] That is why you fail. - Yoda / Luke <br>
-README.md last auto generated Wed Jan  5 07:08:27 2022<br>
+If you define yourself by your power to take life, your desire to dominate, to possess, then you have nothing. — Obi-Wan Kenobi <br>
+README.md last auto generated Thu Jan  6 07:08:23 2022<br>
 </div>
