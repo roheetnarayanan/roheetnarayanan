@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia <br>
-README.md last auto generated Sat Jan  8 07:08:05 2022<br>
+Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda <br>
+README.md last auto generated Sun Jan  9 07:08:07 2022<br>
 </div>
