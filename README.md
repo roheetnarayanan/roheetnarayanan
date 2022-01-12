@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Now, young Skywalker, you will die. — Emperor Palpatine <br>
-README.md last auto generated Tue Jan 11 07:08:07 2022<br>
+You will know (the good from the bad) when you are calm, at peace. Passive. A Jedi uses the Force for knowledge and defense, never for attack. - Yoda <br>
+README.md last auto generated Wed Jan 12 07:08:35 2022<br>
 </div>
