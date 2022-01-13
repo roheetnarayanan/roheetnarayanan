@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You will know (the good from the bad) when you are calm, at peace. Passive. A Jedi uses the Force for knowledge and defense, never for attack. - Yoda <br>
-README.md last auto generated Wed Jan 12 07:08:35 2022<br>
+Never tell me the odds! — Han Solo <br>
+README.md last auto generated Thu Jan 13 07:08:25 2022<br>
 </div>
