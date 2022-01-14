@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Never tell me the odds! — Han Solo <br>
-README.md last auto generated Thu Jan 13 07:08:25 2022<br>
+Every time I walked away from something I wanted to forget, I told myself it was for a cause that I believed in. A cause that was worth it. Without that, we’re lost. — Cassian Andor <br>
+README.md last auto generated Fri Jan 14 07:08:48 2022<br>
 </div>
