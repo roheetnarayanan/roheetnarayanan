@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-There’s always a bigger fish. — Qui-Gon Jinn <br>
-README.md last auto generated Sat Jan 15 07:08:05 2022<br>
+Your focus determines your reality. ? Qui-Gon Jinn <br>
+README.md last auto generated Sun Jan 16 07:07:49 2022<br>
 </div>
