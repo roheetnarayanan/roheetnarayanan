@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I’m one with the Force. The Force is with me. — Chirrut Îmwe <br>
-README.md last auto generated Wed Jan 19 07:07:43 2022<br>
+I am no Jedi. — Ahsoka Tano <br>
+README.md last auto generated Thu Jan 20 07:07:46 2022<br>
 </div>
