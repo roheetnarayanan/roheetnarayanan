@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The garbage’ll do! — Rey <br>
-README.md last auto generated Fri Jan 21 07:07:51 2022<br>
+This technological terror is nothing compared to the power of the force - Darth Vader <br>
+README.md last auto generated Sat Jan 22 07:07:14 2022<br>
 </div>
