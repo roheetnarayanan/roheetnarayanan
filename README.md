@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The Force will be with you. Always. — Obi-Wan Kenobi <br>
-README.md last auto generated Mon Jan 24 07:08:05 2022<br>
+An object cannot make you good or evil. The temptation of power, forbidden knowledge, even the desire to do good can lead some down that path. But only you can change yourself. — Bendu <br>
+README.md last auto generated Tue Jan 25 07:07:53 2022<br>
 </div>
