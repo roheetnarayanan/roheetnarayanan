@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-If you define yourself by your power to take life, your desire to dominate, to possess, then you have nothing. — Obi-Wan Kenobi <br>
-README.md last auto generated Tue Feb  1 07:07:51 2022<br>
+The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
+README.md last auto generated Wed Feb  2 07:07:53 2022<br>
 </div>
