@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
-README.md last auto generated Wed Feb  2 07:07:53 2022<br>
+When gone am I, the last of the Jedi will you be. The Force runs strong in your family. Pass on what you have learned. — Yoda <br>
+README.md last auto generated Thu Feb  3 07:07:40 2022<br>
 </div>
