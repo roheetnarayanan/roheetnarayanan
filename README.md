@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-What if I told you that the Republic was now under the control of a Dark Lord of the Sith? — Count Dooku <br>
-README.md last auto generated Sat Feb 12 07:07:02 2022<br>
+We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia <br>
+README.md last auto generated Sun Feb 13 07:07:25 2022<br>
 </div>
