@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia <br>
-README.md last auto generated Sun Feb 13 07:07:25 2022<br>
+Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze <br>
+README.md last auto generated Mon Feb 14 07:07:57 2022<br>
 </div>
