@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-[Luke:] I can’t believe it. [Yoda:] That is why you fail. - Yoda / Luke <br>
-README.md last auto generated Thu Feb 17 07:08:57 2022<br>
+Train yourself to let go of everything you fear to lose. - Yoda <br>
+README.md last auto generated Fri Feb 18 07:09:08 2022<br>
 </div>
