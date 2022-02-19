@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Train yourself to let go of everything you fear to lose. - Yoda <br>
-README.md last auto generated Fri Feb 18 07:09:08 2022<br>
+The Force will be with you. Always. — Obi-Wan Kenobi <br>
+README.md last auto generated Sat Feb 19 07:08:22 2022<br>
 </div>
