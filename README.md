@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Be Careful Not To Choke On Your Convictions. - Darth Vader <br>
-README.md last auto generated Sun Feb 27 07:08:53 2022<br>
+Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi <br>
+README.md last auto generated Mon Feb 28 07:09:18 2022<br>
 </div>
