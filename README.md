@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-When gone am I, the last of the Jedi will you be. The Force runs strong in your family. Pass on what you have learned. — Yoda <br>
-README.md last auto generated Tue Mar  1 07:11:54 2022<br>
+I’m just a simple man trying to make my way in the universe. — Jango Fett <br>
+README.md last auto generated Wed Mar  2 07:09:42 2022<br>
 </div>
