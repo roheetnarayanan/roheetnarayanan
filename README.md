@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I’m just a simple man trying to make my way in the universe. — Jango Fett <br>
-README.md last auto generated Wed Mar  2 07:09:42 2022<br>
+Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze <br>
+README.md last auto generated Thu Mar  3 07:09:13 2022<br>
 </div>
