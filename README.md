@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Always pass on what you have learned. - Yoda <br>
-README.md last auto generated Fri Mar  4 07:09:53 2022<br>
+There’s always a bigger fish. — Qui-Gon Jinn <br>
+README.md last auto generated Sat Mar  5 07:08:45 2022<br>
 </div>
