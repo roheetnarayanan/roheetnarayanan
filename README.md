@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo <br>
-README.md last auto generated Mon Mar  7 07:09:30 2022<br>
+The ability to speak does not make you intelligent. ? Qui-Gon Jinn <br>
+README.md last auto generated Tue Mar  8 07:09:07 2022<br>
 </div>
