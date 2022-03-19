@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The garbage’ll do! — Rey <br>
-README.md last auto generated Fri Mar 18 07:09:11 2022<br>
+Never tell me the odds! — Han Solo <br>
+README.md last auto generated Sat Mar 19 07:08:51 2022<br>
 </div>
