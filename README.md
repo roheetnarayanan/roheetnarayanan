@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Never tell me the odds! — Han Solo <br>
-README.md last auto generated Sat Mar 19 07:08:51 2022<br>
+We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia <br>
+README.md last auto generated Sun Mar 20 07:08:45 2022<br>
 </div>
