@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Always pass on what you have learned. - Yoda <br>
-README.md last auto generated Mon Mar 21 07:09:57 2022<br>
+The Sith killed each other, victims of their own greed. But from the ashes of their destruction, I was the last survivor. I chose to pass my knowledge on to only one. I created a legacy so resilient that now you come before me. — Darth Bane <br>
+README.md last auto generated Tue Mar 22 07:09:28 2022<br>
 </div>
