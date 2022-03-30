@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-We must keep our faith in the Republic. The day we stop believing democracy can work is the day we lose it. — Queen Jamillia <br>
-README.md last auto generated Tue Mar 29 08:10:10 2022<br>
+Death is a natural part of life. Rejoice for those around you who transform into the Force. Mourn them do not. Miss them do not. Attachment leads to jealously. The shadow of greed, that is. - Yoda <br>
+README.md last auto generated Wed Mar 30 08:09:30 2022<br>
 </div>
