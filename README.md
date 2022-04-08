@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi <br>
-README.md last auto generated Thu Apr  7 08:09:42 2022<br>
+PATIENCE YOU MUST HAVE my young padawan - Yoda <br>
+README.md last auto generated Fri Apr  8 08:09:45 2022<br>
 </div>
