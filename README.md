@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Hope. — Leia Organa <br>
-README.md last auto generated Mon Apr 11 08:10:25 2022<br>
+I am no Jedi. — Ahsoka Tano <br>
+README.md last auto generated Tue Apr 12 08:09:42 2022<br>
 </div>
