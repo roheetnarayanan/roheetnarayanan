@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I find your lack of faith disturbing. — Darth Vader <br>
-README.md last auto generated Wed Apr 20 08:10:00 2022<br>
+I am no Jedi. — Ahsoka Tano <br>
+README.md last auto generated Thu Apr 21 08:10:39 2022<br>
 </div>
