@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I am no Jedi. — Ahsoka Tano <br>
-README.md last auto generated Thu Apr 21 08:10:39 2022<br>
+I’m just a simple man trying to make my way in the universe. — Jango Fett <br>
+README.md last auto generated Fri Apr 22 08:10:20 2022<br>
 </div>
