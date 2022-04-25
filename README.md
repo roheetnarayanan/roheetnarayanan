@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Powerful you have become, the dark side I sense in you. - Yoda <br>
-README.md last auto generated Sun Apr 24 08:09:52 2022<br>
+The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
+README.md last auto generated Mon Apr 25 08:10:36 2022<br>
 </div>
