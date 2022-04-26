@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
-README.md last auto generated Mon Apr 25 08:10:36 2022<br>
+Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda <br>
+README.md last auto generated Tue Apr 26 08:09:57 2022<br>
 </div>
