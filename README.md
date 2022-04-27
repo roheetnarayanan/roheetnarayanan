@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda <br>
-README.md last auto generated Tue Apr 26 08:09:57 2022<br>
+The Force will be with you. Always. — Obi-Wan Kenobi <br>
+README.md last auto generated Wed Apr 27 08:10:16 2022<br>
 </div>
