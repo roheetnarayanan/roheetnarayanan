@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The Force will be with you. Always. — Obi-Wan Kenobi <br>
-README.md last auto generated Wed Apr 27 08:10:16 2022<br>
+Hope. — Leia Organa <br>
+README.md last auto generated Thu Apr 28 08:12:39 2022<br>
 </div>
