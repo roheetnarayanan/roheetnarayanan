@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Hope. — Leia Organa <br>
-README.md last auto generated Thu Apr 28 08:12:39 2022<br>
+If you define yourself by your power to take life, your desire to dominate, to possess, then you have nothing. — Obi-Wan Kenobi <br>
+README.md last auto generated Fri Apr 29 08:11:35 2022<br>
 </div>
