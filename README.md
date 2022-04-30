@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-If you define yourself by your power to take life, your desire to dominate, to possess, then you have nothing. — Obi-Wan Kenobi <br>
-README.md last auto generated Fri Apr 29 08:11:35 2022<br>
+You've been a good apprentice, Obi-Wan, and you're a much wiser man than I am. I foresee you will become a great Jedi Knight. ? Qui-Gon Jinn <br>
+README.md last auto generated Sat Apr 30 08:09:26 2022<br>
 </div>
