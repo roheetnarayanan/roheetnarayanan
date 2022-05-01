@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You've been a good apprentice, Obi-Wan, and you're a much wiser man than I am. I foresee you will become a great Jedi Knight. ? Qui-Gon Jinn <br>
-README.md last auto generated Sat Apr 30 08:09:26 2022<br>
+Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda <br>
+README.md last auto generated Sun May  1 08:09:37 2022<br>
 </div>
