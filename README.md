@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Power! Unlimited power! — Darth Sidious <br>
-README.md last auto generated Mon May  2 08:10:16 2022<br>
+The Sith killed each other, victims of their own greed. But from the ashes of their destruction, I was the last survivor. I chose to pass my knowledge on to only one. I created a legacy so resilient that now you come before me. — Darth Bane <br>
+README.md last auto generated Tue May  3 08:10:05 2022<br>
 </div>
