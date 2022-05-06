@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Power! Unlimited power! — Darth Sidious <br>
-README.md last auto generated Thu May  5 08:11:02 2022<br>
+Secrets must be exposed when found. Detours must be taken when encountered. And if you are the one who stands at the crossroads or the place of concealment, you must never leave it to another to act in your place. ? Qui-Gon Jinn <br>
+README.md last auto generated Fri May  6 08:11:09 2022<br>
 </div>
