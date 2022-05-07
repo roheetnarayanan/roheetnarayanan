@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Secrets must be exposed when found. Detours must be taken when encountered. And if you are the one who stands at the crossroads or the place of concealment, you must never leave it to another to act in your place. ? Qui-Gon Jinn <br>
-README.md last auto generated Fri May  6 08:11:09 2022<br>
+I’m just a simple man trying to make my way in the universe. — Jango Fett <br>
+README.md last auto generated Sat May  7 08:10:07 2022<br>
 </div>
