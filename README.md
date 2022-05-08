@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I’m just a simple man trying to make my way in the universe. — Jango Fett <br>
-README.md last auto generated Sat May  7 08:10:07 2022<br>
+It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo <br>
+README.md last auto generated Sun May  8 08:10:22 2022<br>
 </div>
