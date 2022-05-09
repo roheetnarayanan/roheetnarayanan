@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo <br>
-README.md last auto generated Sun May  8 08:10:22 2022<br>
+You were my brother, Anakin. I loved you. — Obi-Wan Kenobi <br>
+README.md last auto generated Mon May  9 08:10:42 2022<br>
 </div>
