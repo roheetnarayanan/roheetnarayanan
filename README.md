@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Death is a natural part of life. Rejoice for those around you who transform into the Force. Mourn them do not. Miss them do not. Attachment leads to jealously. The shadow of greed, that is. - Yoda <br>
-README.md last auto generated Tue May 10 08:10:10 2022<br>
+PATIENCE YOU MUST HAVE my young padawan - Yoda <br>
+README.md last auto generated Wed May 11 08:12:19 2022<br>
 </div>
