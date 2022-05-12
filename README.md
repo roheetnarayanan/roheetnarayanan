@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-PATIENCE YOU MUST HAVE my young padawan - Yoda <br>
-README.md last auto generated Wed May 11 08:12:19 2022<br>
+So this is how liberty dies. With thunderous applause. — Padmé Amidala <br>
+README.md last auto generated Thu May 12 08:12:19 2022<br>
 </div>
