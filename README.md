@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-So this is how liberty dies. With thunderous applause. — Padmé Amidala <br>
-README.md last auto generated Thu May 12 08:12:19 2022<br>
+In time, the suffering of your people will persuade you to see our point of view. — Nute Gunray <br>
+README.md last auto generated Fri May 13 08:14:20 2022<br>
 </div>
