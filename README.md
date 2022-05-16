@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The garbage’ll do! — Rey <br>
-README.md last auto generated Sun May 15 08:10:25 2022<br>
+Train yourself to let go of everything you fear to lose. - Yoda <br>
+README.md last auto generated Mon May 16 08:11:43 2022<br>
 </div>
