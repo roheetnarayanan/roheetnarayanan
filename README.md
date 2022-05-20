@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Chewie, we’re home. — Han Solo <br>
-README.md last auto generated Thu May 19 08:10:35 2022<br>
+Yes, a Jedi’s strength flows from the Force. But beware of the dark side. Anger, fear, aggression; the dark side of the Force are they. Easily they flow, quick to join you in a fight. If once you start down the dark path, forever will it dominate your destiny, consume you it will, as it did Obi-Wan’s apprentice. - Yoda <br>
+README.md last auto generated Fri May 20 08:10:24 2022<br>
 </div>
