@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Never tell me the odds! — Han Solo <br>
-README.md last auto generated Sat May 28 08:10:23 2022<br>
+Death is a natural part of life. Rejoice for those around you who transform into the Force. Mourn them do not. Miss them do not. Attachment leads to jealously. The shadow of greed, that is. - Yoda <br>
+README.md last auto generated Sun May 29 08:09:59 2022<br>
 </div>
