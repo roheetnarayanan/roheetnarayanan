@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The garbage’ll do! — Rey <br>
-README.md last auto generated Mon May 30 08:12:25 2022<br>
+In time, the suffering of your people will persuade you to see our point of view. — Nute Gunray <br>
+README.md last auto generated Tue May 31 08:10:41 2022<br>
 </div>
