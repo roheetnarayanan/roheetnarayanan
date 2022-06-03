@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You have failed me for the last time. - Darth Vader <br>
-README.md last auto generated Wed Jun  1 08:16:07 2022<br>
+Do. Or do not. There is no try. — Yoda <br>
+README.md last auto generated Fri Jun  3 08:09:33 2022<br>
 </div>
