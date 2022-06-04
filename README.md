@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Do. Or do not. There is no try. — Yoda <br>
-README.md last auto generated Fri Jun  3 08:09:33 2022<br>
+I’m one with the Force. The Force is with me. — Chirrut Îmwe <br>
+README.md last auto generated Sat Jun  4 08:08:42 2022<br>
 </div>
