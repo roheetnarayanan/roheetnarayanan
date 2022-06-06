@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Every time I walked away from something I wanted to forget, I told myself it was for a cause that I believed in. A cause that was worth it. Without that, we’re lost. — Cassian Andor <br>
-README.md last auto generated Sun Jun  5 08:08:57 2022<br>
+Help me, Obi-Wan Kenobi. You’re my only hope. — Leia Organa <br>
+README.md last auto generated Mon Jun  6 08:10:24 2022<br>
 </div>
