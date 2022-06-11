@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda <br>
-README.md last auto generated Fri Jun 10 08:09:33 2022<br>
+Life does not treat you fairly or unfairly, it merely is. It is up to each of us to be fair, or unfair. ? Qui-Gon Jinn <br>
+README.md last auto generated Sat Jun 11 08:08:52 2022<br>
 </div>
