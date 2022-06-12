@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Life does not treat you fairly or unfairly, it merely is. It is up to each of us to be fair, or unfair. ? Qui-Gon Jinn <br>
-README.md last auto generated Sat Jun 11 08:08:52 2022<br>
+I’m just a simple man trying to make my way in the universe. — Jango Fett <br>
+README.md last auto generated Sun Jun 12 08:10:09 2022<br>
 </div>
