@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Always pass on what you have learned. - Yoda <br>
-README.md last auto generated Mon Jun 13 08:11:14 2022<br>
+Now, young Skywalker, you will die. — Emperor Palpatine <br>
+README.md last auto generated Tue Jun 14 08:10:25 2022<br>
 </div>
