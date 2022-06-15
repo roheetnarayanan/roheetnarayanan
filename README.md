@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Now, young Skywalker, you will die. — Emperor Palpatine <br>
-README.md last auto generated Tue Jun 14 08:10:25 2022<br>
+To die for one’s people is a great sacrifice. To live for one’s people, an even greater sacrifice. I choose to live for my people. — Riyo Chuchi (Season One, Episode 15, Trespass) <br>
+README.md last auto generated Wed Jun 15 08:09:56 2022<br>
 </div>
