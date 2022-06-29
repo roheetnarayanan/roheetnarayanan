@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi <br>
-README.md last auto generated Tue Jun 28 08:09:57 2022<br>
+Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering. I sense much fear in you. — Yoda <br>
+README.md last auto generated Wed Jun 29 08:10:09 2022<br>
 </div>
