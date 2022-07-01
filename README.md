@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You know, no matter how much we fought, I’ve always hated watching you leave. — Leia Organa <br>
-README.md last auto generated Thu Jun 30 08:09:59 2022<br>
+This technological terror is nothing compared to the power of the force - Darth Vader <br>
+README.md last auto generated Fri Jul  1 08:10:07 2022<br>
 </div>
