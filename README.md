@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-This technological terror is nothing compared to the power of the force - Darth Vader <br>
-README.md last auto generated Fri Jul  1 08:10:07 2022<br>
+So this is how liberty dies. With thunderous applause. — Padmé Amidala <br>
+README.md last auto generated Sat Jul  2 08:09:00 2022<br>
 </div>
