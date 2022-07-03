@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-So this is how liberty dies. With thunderous applause. — Padmé Amidala <br>
-README.md last auto generated Sat Jul  2 08:09:00 2022<br>
+The ability to speak does not make you intelligent. ? Qui-Gon Jinn <br>
+README.md last auto generated Sun Jul  3 08:10:26 2022<br>
 </div>
