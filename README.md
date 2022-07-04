@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The ability to speak does not make you intelligent. ? Qui-Gon Jinn <br>
-README.md last auto generated Sun Jul  3 08:10:26 2022<br>
+Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze <br>
+README.md last auto generated Mon Jul  4 08:11:58 2022<br>
 </div>
