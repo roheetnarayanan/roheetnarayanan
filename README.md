@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze <br>
-README.md last auto generated Mon Jul  4 08:11:58 2022<br>
+The garbage’ll do! — Rey <br>
+README.md last auto generated Tue Jul  5 08:10:16 2022<br>
 </div>
