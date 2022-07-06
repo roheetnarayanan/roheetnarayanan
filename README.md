@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The garbage’ll do! — Rey <br>
-README.md last auto generated Tue Jul  5 08:10:16 2022<br>
+Now, young Skywalker, you will die. — Emperor Palpatine <br>
+README.md last auto generated Wed Jul  6 08:10:44 2022<br>
 </div>
