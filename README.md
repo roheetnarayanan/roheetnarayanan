@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Now, young Skywalker, you will die. — Emperor Palpatine <br>
-README.md last auto generated Wed Jul  6 08:10:44 2022<br>
+The Sith killed each other, victims of their own greed. But from the ashes of their destruction, I was the last survivor. I chose to pass my knowledge on to only one. I created a legacy so resilient that now you come before me. — Darth Bane <br>
+README.md last auto generated Thu Jul  7 08:09:36 2022<br>
 </div>
