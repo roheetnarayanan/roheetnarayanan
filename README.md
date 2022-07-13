@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You've been a good apprentice, Obi-Wan, and you're a much wiser man than I am. I foresee you will become a great Jedi Knight. ? Qui-Gon Jinn <br>
-README.md last auto generated Tue Jul 12 08:11:31 2022<br>
+Power! Unlimited power! — Darth Sidious <br>
+README.md last auto generated Wed Jul 13 08:11:06 2022<br>
 </div>
