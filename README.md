@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Power! Unlimited power! — Darth Sidious <br>
-README.md last auto generated Wed Jul 13 08:11:06 2022<br>
+It’s the ship that made the Kessel run in less than twelve parsecs. I’ve outrun Imperial starships. Not the local bulk cruisers, mind you. I’m talking about the big Corellian ships, now. She’s fast enough for you, old man. — Han Solo <br>
+README.md last auto generated Thu Jul 14 08:10:51 2022<br>
 </div>
