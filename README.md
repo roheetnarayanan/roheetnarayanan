@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The Force will be with you. Always. — Obi-Wan Kenobi <br>
-README.md last auto generated Mon Jul 18 08:10:52 2022<br>
+Secrets must be exposed when found. Detours must be taken when encountered. And if you are the one who stands at the crossroads or the place of concealment, you must never leave it to another to act in your place. ? Qui-Gon Jinn <br>
+README.md last auto generated Tue Jul 19 08:11:43 2022<br>
 </div>
