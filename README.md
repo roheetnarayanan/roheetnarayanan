@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Be Careful Not To Choke On Your Convictions. - Darth Vader <br>
-README.md last auto generated Tue Jul 26 08:11:31 2022<br>
+Never tell me the odds! — Han Solo <br>
+README.md last auto generated Wed Jul 27 08:09:52 2022<br>
 </div>
