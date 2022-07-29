@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Just for once, let me look on you with my own eyes. — Anakin Skywalker <br>
-README.md last auto generated Thu Jul 28 08:10:15 2022<br>
+Your focus determines your reality. ? Qui-Gon Jinn <br>
+README.md last auto generated Fri Jul 29 08:11:24 2022<br>
 </div>
