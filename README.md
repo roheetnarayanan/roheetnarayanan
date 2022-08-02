@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Why, you stuck-up, half-witted, scruffy-looking nerf herder! — Leia Organa <br>
-README.md last auto generated Mon Aug  1 08:24:39 2022<br>
+The ability to speak does not make you intelligent. ? Qui-Gon Jinn <br>
+README.md last auto generated Tue Aug  2 08:10:55 2022<br>
 </div>
