@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The ability to speak does not make you intelligent. ? Qui-Gon Jinn <br>
-README.md last auto generated Tue Aug  2 08:10:55 2022<br>
+The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
+README.md last auto generated Wed Aug  3 08:10:26 2022<br>
 </div>
