@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
-README.md last auto generated Wed Aug  3 08:10:26 2022<br>
+I sense something. A presence I have not felt since…. (A New Hope) - Darth Vader <br>
+README.md last auto generated Thu Aug  4 08:10:46 2022<br>
 </div>
