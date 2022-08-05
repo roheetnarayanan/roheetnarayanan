@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I sense something. A presence I have not felt since…. (A New Hope) - Darth Vader <br>
-README.md last auto generated Thu Aug  4 08:10:46 2022<br>
+An object cannot make you good or evil. The temptation of power, forbidden knowledge, even the desire to do good can lead some down that path. But only you can change yourself. — Bendu <br>
+README.md last auto generated Fri Aug  5 08:10:00 2022<br>
 </div>
