@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I sense something. A presence I have not felt since…. (A New Hope) - Darth Vader <br>
-README.md last auto generated Tue Aug  9 08:10:40 2022<br>
+Well, if droids could think, there’d be none of us here, would there? — Obi-Wan Kenobi <br>
+README.md last auto generated Wed Aug 10 08:11:50 2022<br>
 </div>
