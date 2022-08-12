@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Never tell me the odds! — Han Solo <br>
-README.md last auto generated Thu Aug 11 08:10:27 2022<br>
+I’ll never turn to the dark side. You’ve failed, your highness. I am a Jedi, like my father before me. — Luke Skywalker <br>
+README.md last auto generated Fri Aug 12 08:10:37 2022<br>
 </div>
