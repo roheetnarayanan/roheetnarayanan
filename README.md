@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Oh, my dear friend. How I’ve missed you. — C-3PO <br>
-README.md last auto generated Sat Aug 13 08:09:20 2022<br>
+Always pass on what you have learned. - Yoda <br>
+README.md last auto generated Sun Aug 14 08:10:07 2022<br>
 </div>
