@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Always pass on what you have learned. - Yoda <br>
-README.md last auto generated Sun Aug 14 08:10:07 2022<br>
+I am no Jedi. — Ahsoka Tano <br>
+README.md last auto generated Mon Aug 15 08:10:08 2022<br>
 </div>
