@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I am no Jedi. — Ahsoka Tano <br>
-README.md last auto generated Mon Aug 15 08:10:08 2022<br>
+Every time I walked away from something I wanted to forget, I told myself it was for a cause that I believed in. A cause that was worth it. Without that, we’re lost. — Cassian Andor <br>
+README.md last auto generated Tue Aug 16 08:09:25 2022<br>
 </div>
