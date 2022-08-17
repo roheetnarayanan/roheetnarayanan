@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Every time I walked away from something I wanted to forget, I told myself it was for a cause that I believed in. A cause that was worth it. Without that, we’re lost. — Cassian Andor <br>
-README.md last auto generated Tue Aug 16 08:09:25 2022<br>
+The Force will be with you. Always. — Obi-Wan Kenobi <br>
+README.md last auto generated Wed Aug 17 08:11:02 2022<br>
 </div>
