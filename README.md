@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Chewie, we’re home. — Han Solo <br>
-README.md last auto generated Thu Aug 18 08:10:16 2022<br>
+I am no Jedi. — Ahsoka Tano <br>
+README.md last auto generated Fri Aug 19 08:12:46 2022<br>
 </div>
