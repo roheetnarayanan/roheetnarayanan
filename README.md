@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-You will know (the good from the bad) when you are calm, at peace. Passive. A Jedi uses the Force for knowledge and defense, never for attack. - Yoda <br>
-README.md last auto generated Sat Aug 20 08:09:35 2022<br>
+Remember, my dear Obi-Wan. I’ve loved you always. I always will. — Duchess Satine Kryze <br>
+README.md last auto generated Sun Aug 21 08:10:05 2022<br>
 </div>
