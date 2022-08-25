@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Secrets must be exposed when found. Detours must be taken when encountered. And if you are the one who stands at the crossroads or the place of concealment, you must never leave it to another to act in your place. ? Qui-Gon Jinn <br>
-README.md last auto generated Wed Aug 24 08:13:05 2022<br>
+The Sith took everything from me. Ripped me from my mother’s arms, murdered my brother, used me as a weapon, and then cast me aside. Abandoned me. Once, I had power — now I have nothing. — Maul <br>
+README.md last auto generated Thu Aug 25 08:22:45 2022<br>
 </div>
