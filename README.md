@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-I find your lack of faith disturbing. — Darth Vader <br>
-README.md last auto generated Sat Aug 27 08:09:49 2022<br>
+The dark side of the Force is a pathway to many abilities some consider to be unnatural. — Chancellor Palpatine <br>
+README.md last auto generated Sun Aug 28 08:09:40 2022<br>
 </div>
