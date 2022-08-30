@@ -19,6 +19,6 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
-Your focus determines your reality. ? Qui-Gon Jinn <br>
-README.md last auto generated Mon Aug 29 08:39:10 2022<br>
+Be Careful Not To Choke On Your Convictions. - Darth Vader <br>
+README.md last auto generated Tue Aug 30 08:43:23 2022<br>
 </div>
