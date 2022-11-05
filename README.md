@@ -12,8 +12,8 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 
 -  **Languages :**  `.py`, `.sql`,`.java`
 -  **Tools :**  Tableau, Oracle 11g, PostgrSQL, Jupyter, Git, AWS, Ms Excel.
--  **Frameworks :**  Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
--  **Interests :**   Machine Learning, Data Mining and Visual Analysis.
+-  **Frameworks :**  Tensorflow, Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
+-  **Interests :**   Machine Learning, Deep Learning, Data Mining and Time Series Analysis.
 
 
 <hr>
