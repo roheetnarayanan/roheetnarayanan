@@ -10,7 +10,7 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roheetnarayanan)](https://github.com/roheetnarayanan)
 
 
--  **Languages :**  `.py`, `.sql`,`.java`
+-  **Languages :**  `.py`, `.sql`,`.R`,`.java`
 -  **Tools :**  Tableau, Oracle 11g, PostgrSQL, Jupyter, Git, AWS, Ms Excel.
 -  **Frameworks :**  Tensorflow, Pandas, Numpy, Matplotlib, Sci-kit learn, Plotly, Seaborn, and Folium.  
 -  **Interests :**   Machine Learning, Deep Learning, Data Mining and Time Series Analysis.
