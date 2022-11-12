@@ -16,6 +16,16 @@ An overview of my portfolio [here](https://roheetnarayanan.in)
 -  **Interests :**   Machine Learning, Deep Learning, Data Mining and Time Series Analysis.
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=roheetnarayanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roheetnarayanan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roheetnarayanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=roheetnarayanan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
