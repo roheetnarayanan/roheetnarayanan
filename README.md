@@ -1,7 +1,7 @@
 
 ### Hello There!
 
-I'm Roheet. I am a Data Engineering Graduate Student at Otto-von-Guericke Universität, Magdeburg.
+I'm Roheet. I am a Data Science Graduate Student at Otto-von-Guericke Universität, Magdeburg.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rroheet//)](https://www.linkedin.com/in/roheetnarayanan/)
