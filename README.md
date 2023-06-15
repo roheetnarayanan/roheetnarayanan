@@ -10,7 +10,6 @@ I'm Roheet. I am a Data Science Graduate Student at Otto-von-Guericke Universit√
 
 
 -  **Languages :**  `.py`, `.sql`, `.R`, `.java`
--  **Tools :**  Tableau, Oracle 11g, PostgrSQL, Jupyter, Git, AWS, Ms Excel.
 -  **Frameworks :**  Tensorflow, Sktime, Merlion, Sci-kit learn, pySpark.
 -  **Infrastructure**: Microservice architecture, Docker, CI/CD, RabbitMQ
 
