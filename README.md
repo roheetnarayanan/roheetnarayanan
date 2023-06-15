@@ -14,12 +14,6 @@ I'm Roheet. I am a Data Science Graduate Student at Otto-von-Guericke UniversitÃ
 -  **Frameworks :**  Tensorflow, Sktime, Merlion, Sci-kit learn, pySpark.
 -  **Infrastructure**: Microservice architecture, CI/CD, RabbitMQ
 
-
-# ðŸ“Š GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=roheetnarayanan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roheetnarayanan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <hr>
 <div align="center">
 <p> <em><Strong>Daily Dose of Star Wars</Strong></em></p><br>
